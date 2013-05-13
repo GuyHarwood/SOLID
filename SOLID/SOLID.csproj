@@ -45,7 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ocp\ColorFilterSpecification.cs" />
-    <Compile Include="Filtering_by_color.cs" />
+    <Compile Include="OcpTests.cs" />
     <Compile Include="ocp\Product.cs" />
     <Compile Include="ocp\ProductColor.cs" />
     <Compile Include="ocp\ProductFilter.cs" />
